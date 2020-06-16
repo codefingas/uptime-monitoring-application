@@ -1,0 +1,8 @@
+{
+  "name": "uptime-monitoring-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codefingas/uptime-monitoring-application.git",
+  "author": "<udohezekiel34@yahoo.com>",
+  "license": "MIT"
+}
